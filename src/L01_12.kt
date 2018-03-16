@@ -1,3 +1,13 @@
 fun main(args: Array<String>) {
-    print(2*2*(2-2)*5-3*(5/2))
+   var x=100
+    print(x)
+    print("\t")
+    print("\t")
+    print(x / 10 % 10)
+    print("\t")
+    print(x / 10 )
+    print("\t")
+    print(x % 10)
+    print("\t")
+    println(x / 100)
 }
