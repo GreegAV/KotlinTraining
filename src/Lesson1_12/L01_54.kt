@@ -1,7 +1,6 @@
-package Lesson1_10
+package Lesson1_12
 
 fun main(args: Array<String>) {
     val scan = java.util.Scanner(System.`in`)
-    var a=scan.nextInt()
-    print(a%5==0)
+    print(Math.cos(scan.nextDouble()))
 }
