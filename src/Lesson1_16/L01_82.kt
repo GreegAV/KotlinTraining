@@ -1,7 +1,8 @@
 import java.util.*
-val scan = Scanner(System.`in`)
+
 
 fun main(args: Array<String>) {
+    val scan = Scanner(System.`in`)
     // Ваш код здесь
     var a=scan.nextLine()
     var b=a[1]
